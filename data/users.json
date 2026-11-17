@@ -1,0 +1,101 @@
+[
+  {
+    "id": "usr_1794333718497_yhdwq",
+    "name": "DJ Tester",
+    "email": "dj@example.com",
+    "phone": "",
+    "password": "secretpassword",
+    "age": 18,
+    "isAgeVerified": true,
+    "guidelinesAccepted": true,
+    "provider": "email",
+    "location": "Tokyo, Japan",
+    "preferredGenres": [
+      "Cyberpunk",
+      "Deep House",
+      "Techno"
+    ],
+    "experienceLevel": "pro",
+    "studioGoal": "dj-mashup",
+    "hasCompletedOnboarding": true,
+    "createdAt": "2026-11-10T18:01:58.497Z"
+  },
+  {
+    "id": "usr_g_1794334681841_34e1p",
+    "name": "Prathambatra1999",
+    "email": "prathambatra1999@gmail.com",
+    "avatarUrl": "https://api.dicebear.com/7.x/identicon/svg?seed=Prathambatra1999%40gmail.com",
+    "age": 21,
+    "isAgeVerified": true,
+    "guidelinesAccepted": true,
+    "provider": "google",
+    "location": "India (South Asia)",
+    "preferredGenres": [
+      "cyberpunk",
+      "techno",
+      "lofi",
+      "deephouse"
+    ],
+    "hasCompletedOnboarding": true,
+    "createdAt": "2026-11-10T18:18:01.841Z",
+    "experienceLevel": "intermediate",
+    "studioGoal": "all"
+  },
+  {
+    "id": "usr_1794334765385_2w1d3",
+    "name": "DJ 7931",
+    "email": "",
+    "phone": "+918799747931",
+    "age": 18,
+    "isAgeVerified": true,
+    "guidelinesAccepted": true,
+    "provider": "phone",
+    "location": "Global / Worldwide",
+    "preferredGenres": [
+      "cyberpunk",
+      "techno"
+    ],
+    "hasCompletedOnboarding": true,
+    "createdAt": "2026-11-10T18:19:25.385Z",
+    "experienceLevel": "intermediate",
+    "studioGoal": "all"
+  },
+  {
+    "id": "usr_g_1794336309895_5qf9k",
+    "name": "Creator",
+    "email": "creator@gmail.com",
+    "avatarUrl": "https://api.dicebear.com/7.x/identicon/svg?seed=creator%40gmail.com",
+    "age": 21,
+    "isAgeVerified": true,
+    "guidelinesAccepted": true,
+    "provider": "google",
+    "location": "Global / Worldwide",
+    "preferredGenres": [
+      "cyberpunk",
+      "techno"
+    ],
+    "hasCompletedOnboarding": true,
+    "createdAt": "2026-11-10T18:45:09.895Z",
+    "experienceLevel": "intermediate",
+    "studioGoal": "all"
+  },
+  {
+    "id": "usr_g_1794416702309_wkxw0",
+    "name": "Afsvsgrh",
+    "email": "afsvsgrh@wasdfgfh",
+    "avatarUrl": "https://api.dicebear.com/7.x/identicon/svg?seed=afsvsgrh%40wasdfgfh",
+    "age": 21,
+    "isAgeVerified": true,
+    "guidelinesAccepted": true,
+    "provider": "google",
+    "location": "Global / Worldwide",
+    "preferredGenres": [
+      "cyberpunk",
+      "techno"
+    ],
+    "hasCompletedOnboarding": true,
+    "createdAt": "2026-11-11T17:05:02.309Z",
+    "experienceLevel": "intermediate",
+    "studioGoal": "all"
+  }
+]

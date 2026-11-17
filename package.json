@@ -1,0 +1,22 @@
+{
+  "name": "zovik",
+  "version": "2.0.0",
+  "description": "zovik",
+  "private": true,
+  "scripts": {
+    "dev:server": "cd server && npm run dev",
+    "dev:client": "cd client && npm run dev",
+    "build:client": "cd client && npm run build",
+    "start:server": "cd server && npm start"
+  },
+  "keywords": [
+    "ai-dj",
+    "web-audio-api",
+    "tonejs",
+    "react",
+    "video-generator",
+    "coding-assistant"
+  ],
+  "author": "Zovik AI",
+  "license": "MIT"
+}
